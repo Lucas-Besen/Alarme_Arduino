@@ -1,1 +1,2 @@
 # Alarme_Arduino
+Este código é um alarme bem elaborado, com senha de 4 dígitos que é possível trocar, tem uma função que é disparada por excesso de senhas incorretas, só será possível desligar se tiver acesso ao site criado para essa função, que está disponível em github.com/Lucas-Besen/Gerador_PIN além de ter outras funções, ele é composto por uma porta, duas jenelas, um sensor de movimento, uma sirene, display e teclado.
